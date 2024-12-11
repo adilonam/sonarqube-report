@@ -1,0 +1,65 @@
+
+# LaTeX intermediate and output files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# PDF files
+*.pdf
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.backup
+*.synctex(busy)
+
+# Directory for auxiliary files
+aux-dir/
+
+# Directory for output files
+out-dir/
+
+# Other files and directories
+*.dvi
+*.ps
+*.eps
+*.synctex
+*.gz
+*.xdv
+*.lof
+*.lot
+*.bit
+*.idx
+*.glo
+*.bbl
+*.blg
+*.brf 
+*.cb
+*.cb2
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.ist
+*.acn
+*.acr
+*.alg
+*.loa
+*.lol
+*.mw
+*.nlo
+*.nls
+*.out.ps
+*.run.xml
+*.upa
+*.upb
